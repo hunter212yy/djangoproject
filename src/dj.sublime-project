@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "D:\\djangoprojects\\static_in_env"
 		}
 	]
 }
